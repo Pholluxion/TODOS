@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itemUno"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Send Emain"/>
+    <item
+        android:id="@+id/itemDos"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="go to"
+        />
+    <item
+        android:id="@+id/itemTres"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Show Alert"
+        />
+
+    <item
+        android:id="@+id/itemCuatro"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Show Toast"
+        />
+
+</menu>
