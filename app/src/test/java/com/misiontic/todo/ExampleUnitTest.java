@@ -1,4 +1,4 @@
-package com.misiontic.todo_cap;
+package com.misiontic.todo;
 
 import org.junit.Test;
 

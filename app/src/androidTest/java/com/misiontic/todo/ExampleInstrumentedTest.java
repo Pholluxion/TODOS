@@ -1,4 +1,4 @@
-package com.misiontic.todo_cap;
+package com.misiontic.todo;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.misiontic.todo_cap", appContext.getPackageName());
+        assertEquals("com.misiontic.todo", appContext.getPackageName());
     }
 }
